@@ -41,7 +41,7 @@ Mint yours at [OrdinalGenesis.xyz](https://ordinalgenesis.xyz/mint/btc-fleas).
 | Phase 0 | Built out brand identity and narrative             | Complete   | C8Y Labs artwork, “itch” theme, meme‑driven storyline                  |
 | Phase 0 | Launched public website (btcfleas.xyz)             | Complete   | Project overview, dynamic emergences, and visual hub                   |
 | Phase 0 | Completed tokenomics and GitHub token repo         | Complete   | $TOKEN_TBC model live with total supply, CSV, staking, bonding curve      |
-| Phase 0 | Partnered with BestInSlot.xyz for $ITCHIN token launch | Complete   | $TOKEN_TBC will launch as a BRC-2.0 token through BiS with full support   |
+| Phase 0 | Partnered with BestInSlot.xyz for $TOKEN_TBC token launch | Complete   | $TOKEN_TBC will launch as a BRC-2.0 token through BiS with full support   |
 
 ---
 
@@ -52,7 +52,7 @@ Mint yours at [OrdinalGenesis.xyz](https://ordinalgenesis.xyz/mint/btc-fleas).
 | Phase 1 | Launch 800 General + 88 OG FLEA Passes on Ordinal Genesis | In Progress  | OGs get all perks + extras — 30/88 already allocated                |
 | Phase 2 | Airdrop 888 BTC Fleas to FLEA Pass holders             | To Do        | On pizza satoshis, snapshot after mint                              |
 | Phase 3 | Set up Best In Slots staking + point tracking          | To Do        | 1 point/block per locked flea                                       |
-| Phase 3 | Develop $ITCHIN claim dashboard                        | To Do        | Optional UI for claiming rewards                                    |
+| Phase 3 | Develop $TOKEN_TBC claim dashboard                        | To Do        | Optional UI for claiming rewards                                    |
 | Phase 4 | Launch teaser campaign on X                            | In Progress  | Memes, mint teasers, vibes                                          |
 | Phase 4 | Design Flea market or game utility concept             | To Do        | “Flea Jump” or merch store                                          |
 | Meta    | Publish GitHub repo with tokenomics                    | Complete     | `BTCFLEAS-tokenomics` repo live                                       |
