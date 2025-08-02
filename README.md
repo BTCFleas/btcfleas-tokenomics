@@ -1,4 +1,4 @@
-![ITCHIN Tokenomics Banner](./itchin_tokenomics_custom_banner.png)
+![ITCHIN Tokenomics Banner](./itchin_tokenomics_custom_banner-v2.png)
 
 ![Supply](https://img.shields.io/badge/Supply-888M-blue)
 ![Chain](https://img.shields.io/badge/Chain-BRC2.0-orange)
